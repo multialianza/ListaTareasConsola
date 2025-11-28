@@ -1,0 +1,30 @@
+/*Estilos*/
+body {
+    font-family: Arial, sans-serif;
+    /**background-color: #b8b8c0;**/
+    /**color: #333;**/
+    margin: 160px;
+    text-align: center;
+    background-image: url("../img/imagen-digital6.jpeg");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+
+
+
+
+}
+
+header {
+    background-color: #1a9dea;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+h1 {
+    margin-bottom: 5px;
+}
+
